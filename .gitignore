@@ -1,0 +1,21 @@
+# data
+data/raw/
+data/processed/
+data/sample/
+*.csv
+*.parquet
+*.zip
+*.gz
+*.sql
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# environments
+.venv/
+.env
+
+# outputs
+models/
