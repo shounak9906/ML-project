@@ -2,6 +2,7 @@
 data/raw/
 data/processed/
 data/sample/
+data/*
 *.csv
 *.parquet
 *.zip
