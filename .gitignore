@@ -23,3 +23,7 @@ __pycache__/
 models/
 
 .claude/
+data/raw/*.parquet
+data/cleaned/*.parquet
+models/*.joblib
+notebooks/.Rhistory
