@@ -27,3 +27,4 @@ data/raw/*.parquet
 data/cleaned/*.parquet
 models/*.joblib
 notebooks/.Rhistory
+*.png
