@@ -10,6 +10,8 @@ data/*
 *.sql
 *.pdf
 
+figures/*.png
+
 # python
 __pycache__/
 *.pyc
@@ -27,4 +29,3 @@ data/raw/*.parquet
 data/cleaned/*.parquet
 models/*.joblib
 notebooks/.Rhistory
-*.png
